@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1607031726 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1607022619 c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\utn.h
+
+1607609369 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1607003141 c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\linkedlist.h
+
+1607609316 c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\controller.h
+
+1607033101 c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\employee.h
+
+1607022619 c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\parser.h
+
+1607609426 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1607031980 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607031985 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1607031989 source:c:\users\crisp\desktop\rosales.rsplabo.1f\recuperatorio_2do_parcial\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
